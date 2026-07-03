@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Image -->
-  <img src="https://raw.githubusercontent.com/Ojworks/Portfolio/main/public/profile.jpg" width="120" height="120" style="border-radius: 16px; border: 1px solid #e7e5e4; margin-bottom: 8px;" alt="Orlando Fornolles Jr.">
+  <img src="profile1.jpg" width="120" height="120" style="border-radius: 16px; border: 1px solid #e7e5e4; margin-bottom: 8px;" alt="Orlando Fornolles Jr.">
 
   <!-- Name & Verified Badge -->
   <h1 align="center" style="border-bottom: none; margin-top: 10px;">
@@ -15,7 +15,7 @@
 
   <!-- Role / Sub-headline -->
   <p align="center" style="font-size: 1.15em; color: #8c7a6b; font-style: italic; margin-top: 10px;">
-    Frontend Developer (React & Next.js) | COO @ SWUdevs
+    Frontend Developer (React & Next.js)
   </p>
 
   <!-- Navigation / Links -->
