@@ -5,7 +5,7 @@
   <!-- Name & Verified Badge -->
   <h1 align="center" style="border-bottom: none; margin-top: 10px;">
     Orlando Fornolles Jr.
-    <img src="https://raw.githubusercontent.com/Ojworks/Portfolio/main/public/verified.svg" width="18" height="18" alt="Verified" style="vertical-align: middle; margin-left: 2px;">
+    <img src="verified.svg" width="18" height="18" alt="Verified" style="vertical-align: middle; margin-left: 2px;">
   </h1>
 
   <!-- Location Badge -->
