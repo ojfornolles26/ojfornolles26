@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Image -->
-  <img src="profile1.jpg" width="120" height="120" style="border-radius: 16px; border: 1px solid #e7e5e4; margin-bottom: 8px;" alt="Orlando Fornolles Jr.">
+  <img src="oj.png" width="120" height="120" style="border-radius: 16px; border: 1px solid #e7e5e4; margin-bottom: 8px;" alt="Orlando Fornolles Jr.">
 
   <!-- Name & Verified Badge -->
   <h1 align="center" style="border-bottom: none; margin-top: 10px;">
