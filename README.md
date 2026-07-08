@@ -15,7 +15,7 @@
 
   <!-- Role / Sub-headline -->
   <p align="center" style="font-size: 1.15em; color: #8c7a6b; font-style: italic; margin-top: 10px;">
-    Software Developer (React & Next.js)
+    Software Developer
   </p>
 
   <!-- Navigation / Links -->
