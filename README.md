@@ -20,13 +20,9 @@
 
   <!-- Navigation / Links -->
   <p align="center" style="margin-top: 20px;">
-    <a href="mailto:orlandojr058@gmail.com" style="display: inline-block; vertical-align: top;">
-      <img src="https://img.shields.io/badge/Send%20Email-orlandojr058%40gmail.com-8c7a6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
+    <a href="mailto:orlandojr058@gmail.com" style="display: inline-block; vertical-align: top;"><img src="https://img.shields.io/badge/Send%20Email-orlandojr058%40gmail.com-8c7a6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     &nbsp;&nbsp;
-    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;add=orlandojr058@gmail.com" style="display: inline-block; vertical-align: top;">
-      <img src="https://img.shields.io/badge/Schedule%20Meeting-Calendar-c29b68?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar">
-    </a>
+    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;add=orlandojr058@gmail.com" style="display: inline-block; vertical-align: top;"><img src="https://img.shields.io/badge/Schedule%20Meeting-Calendar-c29b68?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar"></a>
   </p>
 </div>
 
