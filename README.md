@@ -21,6 +21,3 @@
   LinkedIn  :: https://linkedin.com/in/ojfornolles26
   GitHub    :: https://github.com/ojfornolles26
 ```
-
----
-*© 2026 Orlando Jr. Fornolles*
