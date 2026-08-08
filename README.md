@@ -6,8 +6,8 @@
   </h1>
 
   <!-- Role / Sub-headline -->
-  <p align="center" style="font-family: monospace; font-size: 1.05em; font-weight: 600; color: #38bdf8; letter-spacing: 0.04em; margin-top: 2px; margin-bottom: 12px;">
-    Software Developer
+  <p align="center" style="margin-top: 2px; margin-bottom: 12px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Software Developer">
   </p>
 
   <!-- Location Badge -->
