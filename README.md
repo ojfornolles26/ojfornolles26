@@ -1,56 +1,24 @@
-<div align="center">
-  <!-- Name & Verified Blue Badge -->
-  <h1 align="center" style="border-bottom: none; margin-top: 10px;">
-    👋 Hi, I'm Orlando
-    <img src="verified.svg" width="20" height="20" alt="Verified" style="vertical-align: middle; margin-left: 4px;">
-  </h1>
+# Orlando Jr.
 
-  <!-- Role / Sub-headline -->
-  <p align="center" style="margin-top: 2px; margin-bottom: 12px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=18000&color=38BDF8&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Software Developer">
-  </p>
+Software developer building clean, focused web applications with React and modern web tools.
 
+```
+● The Prelude
+  I build clean, focused web applications with React and modern web tools. Driven by good user experience, simple code, and continuous learning.
 
-  <!-- Navigation / Links -->
-  <p align="center" style="margin-top: 15px;">
-    <a href="mailto:orlandojr058@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-orlandojr058%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    &nbsp;&nbsp;
-    <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;add=orlandojr058@gmail.com"><img src="https://img.shields.io/badge/Schedule%20Meeting-Calendar-0369a1?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Calendar"></a>
-  </p>
+● What I Do
+  Specializing in React.js, Next.js, and modern Web APIs. Currently interning at SugboDoc Technologies and FlyRank AI, while serving as COO of SWUdevs, running community operations, organizing workshops, leading peer-to-peer initiatives, and speaking on AI.
 
-  <br>
+● How I Build
+  Frontend  :: React.js / Next.js / JavaScript / HTML5 / CSS3 / Tailwind CSS / Framer Motion
+  Backend   :: Node.js / Express / PHP / MySQL / Firebase / Supabase / Cloudflare Workers
+  Tools     :: Git / GitHub / Vite / VS Code / Vercel / Netlify / Render
 
-  <!-- Technologies Section -->
-  <h2>Technical Stack</h2>
+● Let's Connect
+  Email     :: orlandojr058@gmail.com
+  LinkedIn  :: https://linkedin.com/in/ojfornolles26
+  GitHub    :: https://github.com/ojfornolles26
+```
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-    <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render">
-  </p>
-</div>
-
+---
+*© 2026 Orlando Jr. Fornolles*
