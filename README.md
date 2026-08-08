@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Orlando</h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=12000&color=FAF9F6&center=true&vCenter=true&width=600&lines=Software+developer+building+web+apps+with+React+%26+modern+tools." alt="Software developer building web apps with React & modern tools.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=12000&color=FAF9F6&center=true&vCenter=true&width=620&lines=A+software+developer+building+web+apps+with+React+%26+modern+tools." alt="A software developer building web apps with React & modern tools.">
   </p>
 </div>
 
