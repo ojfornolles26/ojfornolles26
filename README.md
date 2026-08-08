@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Orlando
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=10000&color=FAF9F6&center=false&vCenter=true&width=750&lines=Software+developer+building+clean%2C+focused+web+applications+with+React+and+modern+web+tools." alt="Software developer building clean, focused web applications with React and modern web tools.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=10000&color=FAF9F6&center=false&vCenter=true&width=600&lines=Software+developer+building+web+apps+with+React+%26+modern+tools." alt="Software developer building web apps with React & modern tools.">
 </p>
 
 ```
