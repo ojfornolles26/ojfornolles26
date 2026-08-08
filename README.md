@@ -1,6 +1,8 @@
-# Orlando Jr.
+# 👋 Hi, I'm Orlando
 
-Software developer building clean, focused web applications with React and modern web tools.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3500&pause=10000&color=FAF9F6&center=false&vCenter=true&width=750&lines=Software+developer+building+clean%2C+focused+web+applications+with+React+and+modern+web+tools." alt="Software developer building clean, focused web applications with React and modern web tools.">
+</p>
 
 ```
 ● The Prelude
