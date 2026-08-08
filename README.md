@@ -7,7 +7,7 @@
 
   <!-- Role / Sub-headline -->
   <p align="center" style="margin-top: 2px; margin-bottom: 12px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=8000&color=38BDF8&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Software Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=12000&color=38BDF8&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Software Developer">
   </p>
 
   <!-- Location Badge -->
