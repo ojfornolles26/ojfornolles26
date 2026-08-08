@@ -10,10 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=18000&color=38BDF8&center=true&vCenter=true&width=300&lines=Software+Developer" alt="Software Developer">
   </p>
 
-  <!-- Location Badge -->
-  <p align="center" style="margin-top: 4px;">
-    <img src="https://img.shields.io/badge/Cebu%20City%2C%20Philippines-stone?style=flat-square&logo=googlemaps&logoColor=38bdf8&color=0f172a&labelColor=020617" alt="Location">
-  </p>
 
   <!-- Navigation / Links -->
   <p align="center" style="margin-top: 15px;">
